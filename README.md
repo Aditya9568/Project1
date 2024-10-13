@@ -1,1 +1,1 @@
-# Project1
+This online jewelry shop project is a web-based application that enables users to register, browse jewelry products, and make purchases seamlessly. It features essential functionalities like user registration, a searchable product catalog, a shopping cart, and a complete checkout process. The project is built using PHP, HTML, CSS, JavaScript, Bootstrap, and MySQL for a dynamic and user-friendly experience.
